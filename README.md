@@ -1,1 +1,1 @@
-"# kyphosis_disease_prediction" 
+kyphosis_disease_prediction
